@@ -1,3 +1,3 @@
 ### Hi there 👋, I'm Milo...
 
-<img align="left" alt="rancidponcho's Github Stats" src="https://github-readme-stats-rancidponcho.vercel.app/api?username=rancidponcho" />
+<img align="center" alt="rancidponcho's Github Stats" src="https://github-readme-stats-rancidponcho.vercel.app/api?username=rancidponcho" />
