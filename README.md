@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Milo...
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
 <a href="mailto:milotkasp@gmail.com"> <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>  |  <a href="mailto:milotkasp@gmail.com"> <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 
