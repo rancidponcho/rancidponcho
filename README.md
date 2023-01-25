@@ -1,3 +1,3 @@
 ### Hi there 👋, I'm Milo...
 
-<a href=""> <img align="center" src="github-readme-stats-bay-two.vercel.app/api/top-langs/?username=rancidponcho=react&line_height=40&hide=css"/> </a>
+<img align="left" alt="rancidponcho's Github Stats" src="https://github-readme-stats.rancidponcho.vercel.app/api?username=rancidponcho" />
