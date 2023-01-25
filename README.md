@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Milo...
 
-<a href="mailto:milotkasp@gmail.com"> <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://discordapp.com/users/1067641876171206727"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discordapp.com/users/1067641876171206727"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a><a href="mailto:milotkasp@gmail.com"> <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 <img align="left" alt="rancidponcho's Github" src="https://github-readme-stats-rancidponcho.vercel.app/api?username=rancidponcho&theme=transparent" />
 
