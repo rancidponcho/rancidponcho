@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Milo...
 
-<!-- target="_blank" doesn't work -->
-<a href="mailto:milotkasp@gmail.com"> <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<a href="mailto:milotkasp@gmail.com"> <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>  |  <a href="mailto:milotkasp@gmail.com"> <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
 
 <a href="https://discordapp.com/users/1067641876171206727"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
