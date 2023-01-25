@@ -10,4 +10,4 @@
 
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 
-<img align="center" alt="Github Stats" src="https://github-readme-stats-rancidponcho.vercel.app/api?username=rancidponcho&theme=transparent" /><img align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rancidponcho&theme=cobalt"/>
+<img align="center" alt="Github Stats" src="https://github-readme-stats-rancidponcho.vercel.app/api?username=rancidponcho&theme=cobalt" /><img align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rancidponcho&theme=cobalt"/>
