@@ -12,4 +12,4 @@
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats-rancidponcho.vercel.app/api?username=rancidponcho&theme=transparent" />
 
-<img align="right" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rancidponcho"/>
+<img align="right" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rancidponcho"/>
