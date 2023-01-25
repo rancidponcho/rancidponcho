@@ -8,8 +8,9 @@
 <!-- Operating Systems -->
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-<!-- Unimpressive stats
+<img align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rancidponcho&theme=cobalt"/>
+
+<!-- Unimpressive Stats
 <img align="center" alt="Github Stats" src="https://github-readme-stats-rancidponcho.vercel.app/api?username=rancidponcho&theme=cobalt" />
 -->
-<img align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rancidponcho&theme=cobalt"/>
+
