@@ -3,7 +3,7 @@
 
 Advice is welcome! 
 
-I'm currently facing a problem with my Vulkan repository. Please checkout the "issues" branch. I'm getting a segmentation fault on line 55 of private/physicalDevice.cpp.
+I'm currently facing a problem with my Vulkan repository. Please checkout the "issues" branch if you want to help. I'm getting a segmentation fault on line 55 of private/physicalDevice.cpp :woozy_face:.
 
 <img align="left" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rancidponcho&theme=cobalt&hide_border=true"/><a href="https://github.com/rancidponcho/github-readme-stats"><img align="left" src="https://github-readme-stats-rancidponcho.vercel.app/api/top-langs/?username=rancidponcho&layout=compact&theme=transparent&hide_border=true" /></a>  
 
