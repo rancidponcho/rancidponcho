@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Milo...
 <a href="https://discordapp.com/users/1067641876171206727"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a><a href="mailto:milotkasp@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.instagram.com/rancidponcho/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<img align="left" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rancidponcho&theme=cobalt&border_radius=0"/>
+<img align="left" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rancidponcho&theme=cobalt&hide_border=true"/>
 <a href="https://github.com/rancidponcho/github-readme-stats"><img align="center" src="https://github-readme-stats-rancidponcho.vercel.app/api/top-langs/?username=rancidponcho&layout=compact&theme=transparent&hide_border=true" /></a>
 
 
