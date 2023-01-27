@@ -4,6 +4,7 @@
 <img align="center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rancidponcho&theme=cobalt&border_radius=0"/>
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rancidponcho)](https://github.com/anuraghazra/github-readme-stats)
 
 Advice is welcome! 
 I'm currently facing a problem with my Vulkan repository. Please checkout the "issues" branch. I'm getting a segmentation fault on line 55 of private/physicalDevice.cpp.
