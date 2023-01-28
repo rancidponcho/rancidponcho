@@ -1,9 +1,7 @@
 ## Hi there 👋, I'm Milo...
 <a href="https://discordapp.com/users/1067641876171206727"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a><a href="mailto:milotkasp@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.instagram.com/rancidponcho/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-Advice is welcome! 
-
-I'm currently facing a problem with my Vulkan repository. Please checkout the "issues" branch if you want to help. I'm getting a segmentation fault on line 55 of private/physicalDevice.cpp. :woozy_face:
+Advice is very welcome! 
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rancidponcho&theme=cobalt&hide_border=true"/>
